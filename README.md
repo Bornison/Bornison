@@ -1,7 +1,3 @@
-<img align="right" height="168" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-
-###
-
 <h1 align="center">Hey👋,it's me Bornison. <br> Just playing around with code.</h1>
 
 ###
@@ -29,6 +25,10 @@
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<img align="right" height="188" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ###
 
